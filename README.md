@@ -4,10 +4,6 @@ A six-stage econometric pipeline projecting the recruitment gap between
 teacher demand and teacher supply in Portugal's public school system through
 2040, built on a NUTS III panel assembled from DGEEC and INE public data.
 
-TODO: one or two sentences stating the headline result (national gap /
-recruitment need, central scenario) once you've confirmed the number you
-want to lead with.
-
 ## Pipeline
 
 The project is organized as a sequential pipeline, each stage reading the
