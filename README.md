@@ -89,16 +89,6 @@ python models/04_gap/code/gap_model_and_map.py
 python models/05_uncertainty/code/uncertainty_model.py
 python models/06_validation/code/validation.py
 ```
-
-TODO: confirm this is the exact intended run order and add a
-`requirements.txt` (none is currently in the repo).
-
-## Limitations
-
-TODO: state the limitations you've actually identified, e.g. around the
-demand elasticity gating, the flat vs. estimated exit hazard assumption
-(`h60_mode`), or the 2020 exclusion from backtesting.
-
 ## Notes on development
 
 Developed with the assistance of AI coding tools; methodology, model
